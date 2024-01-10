@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**danielmateu14/danielmateu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello fellow developers! 👋 I'm Daniel, a passionate student of programming.
 
-Here are some ideas to get you started:
+Welcome to my GitHub corner! Here, I share my learning journey as I study Java, JavaScript, CSS, and other exciting technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm immersed in the fascinating world of programming and technology. My current focus is on improving my skills in the following areas:
+
+- Java application development
+- Crafting web experiences with JavaScript, HTML, and CSS
+
+
+
+## Skills
+
+- **💻 Programming Languages:** Java, JavaScript
+- **🎨 Frontend Technologies:** HTML, CSS, React.js
+- **🌐 Backend Technologies:** Spring Boot
+
+## Education
+
+I'm currently on my academic journey at IES Macia Abela, where I'm studying DAW.
+
+## Contact
+
+I'd love to connect with you and talk more about our shared love for programming! You can find me on:
+
+- www.linkedin.com/in/danimateu14
+- mateudani@gmail.com
+
+Thanks for stopping by! I hope you find my projects inspiring, and we have the opportunity to collaborate in the future.
+
+Happy coding! 👨‍💻✨
+```
+
+Feel free to adjust any details to match your experiences and preferences. Good luck!
